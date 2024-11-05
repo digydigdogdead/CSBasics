@@ -14,8 +14,8 @@
 
             Console.WriteLine(subtractNumbers(2, 3));
 
-            Console.WriteLine(isStringLonger(firstName, 3));
-            Console.WriteLine(isStringLonger("be", 3));
+            bool isFinnLongerThan3 = isStringLonger(firstName, 3);
+            Console.WriteLine(isFinnLongerThan3);
         }
 
         private static void printGreeting(string name)
