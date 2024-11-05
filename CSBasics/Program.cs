@@ -9,13 +9,18 @@
             string favouriteFilm = "Fight Club";
             favouriteFilm = "High School Musical";
             string firstName = "Finn";
-
-            printGreeting(firstName);
-
-            Console.WriteLine(subtractNumbers(2, 3));
-
             bool isFinnLongerThan3 = isStringLonger(firstName, 3);
-            Console.WriteLine(isFinnLongerThan3);
+
+            Book lionWitchAndWardrobe = new Book("The Lion, The Witch, And The Wardrobe", 100);
+            Console.WriteLine(lionWitchAndWardrobe.CurrentPage);
+            Console.WriteLine(lionWitchAndWardrobe.Name);
+
+            lionWitchAndWardrobe.TurnPage();
+            lionWitchAndWardrobe.TurnPage();
+            lionWitchAndWardrobe.TurnPage();
+            lionWitchAndWardrobe.TurnPage();
+
+            Console.WriteLine(lionWitchAndWardrobe.CurrentPage);
         }
 
         private static void printGreeting(string name)
