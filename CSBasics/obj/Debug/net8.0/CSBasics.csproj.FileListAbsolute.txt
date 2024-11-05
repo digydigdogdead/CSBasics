@@ -13,3 +13,11 @@ C:\Users\Admin\Documents\Northcoders\intro-week\Day 2 Sprint\CSBasics\CSBasics\o
 C:\Users\Admin\Documents\Northcoders\intro-week\Day 2 Sprint\CSBasics\CSBasics\obj\Debug\net8.0\CSBasics.pdb
 C:\Users\Admin\Documents\Northcoders\intro-week\Day 2 Sprint\CSBasics\CSBasics\obj\Debug\net8.0\CSBasics.genruntimeconfig.cache
 C:\Users\Admin\Documents\Northcoders\intro-week\Day 2 Sprint\CSBasics\CSBasics\obj\Debug\net8.0\ref\CSBasics.dll
+C:\Users\Finn\Documents\northcoders\intro-week\CSBasics\CSBasics\obj\Debug\net8.0\CSBasics.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Finn\Documents\northcoders\intro-week\CSBasics\CSBasics\obj\Debug\net8.0\CSBasics.AssemblyInfoInputs.cache
+C:\Users\Finn\Documents\northcoders\intro-week\CSBasics\CSBasics\obj\Debug\net8.0\CSBasics.AssemblyInfo.cs
+C:\Users\Finn\Documents\northcoders\intro-week\CSBasics\CSBasics\obj\Debug\net8.0\CSBasics.csproj.CoreCompileInputs.cache
+C:\Users\Finn\Documents\northcoders\intro-week\CSBasics\CSBasics\obj\Debug\net8.0\CSBasics.sourcelink.json
+C:\Users\Finn\Documents\northcoders\intro-week\CSBasics\CSBasics\obj\Debug\net8.0\CSBasics.dll
+C:\Users\Finn\Documents\northcoders\intro-week\CSBasics\CSBasics\obj\Debug\net8.0\refint\CSBasics.dll
+C:\Users\Finn\Documents\northcoders\intro-week\CSBasics\CSBasics\obj\Debug\net8.0\CSBasics.pdb

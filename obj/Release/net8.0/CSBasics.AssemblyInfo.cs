@@ -12,9 +12,9 @@ using System;
 using System.Reflection;
 
 [assembly: System.Reflection.AssemblyCompanyAttribute("CSBasics")]
-[assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
+[assembly: System.Reflection.AssemblyConfigurationAttribute("Release")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+7101f35a3cb4738a389d53e789fa093740fda819")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+7fbb79817a87fd9090438d953fc15d029df5bf6c")]
 [assembly: System.Reflection.AssemblyProductAttribute("CSBasics")]
 [assembly: System.Reflection.AssemblyTitleAttribute("CSBasics")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

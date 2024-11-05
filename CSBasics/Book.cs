@@ -8,9 +8,9 @@ namespace CSBasics
 {
     internal class Book
     {
-        public string Name;
-        public int Pages;
-        public int CurrentPage;
+        public string Name { get; }
+        public int Pages { get; }
+        public int CurrentPage { get; }
 
         public Book(string name, int pages)
         {
